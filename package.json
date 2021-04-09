@@ -2,7 +2,7 @@
   "name": "test-heroku",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for test-heroku goes here",
+  "description": "Small description for test-heroku goes here e,g pushing to heroku",
   "repository": "",
   "license": "MIT",
   "author": "",
